@@ -1,0 +1,7 @@
+{
+  "name": "FEEmhaN FooDieS AI Assistant",
+  "description": "A high-end restaurant and pastry shop AI voice assistant for order taking, reservations, and customer support powered by Gemini 2.5 Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
